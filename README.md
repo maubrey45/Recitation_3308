@@ -1,1 +1,2 @@
-# Recitation_3308
+# Recitation_3308 Lab 4 Assignment
+# Maureen Aubrey
